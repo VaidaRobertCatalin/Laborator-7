@@ -1,0 +1,65 @@
+laborator 5
+<!doctype html>
+<html>
+	<head>
+		<title>
+		Pagina test header
+		</title>
+		<link rel="stylesheet" type="text/css" href="https://www.w3schools.com/wecss/4/w3.css">
+	</head>
+	<body>
+		<h1> Vaida Robert-Catalin</h1>
+		<img src = '0.jpg'>
+		
+		<p>Adresa de e-mail: v.c.r.000000@gmail.com <br>
+		   Citat: "Educatia estea ceea ce ramane cu tine dupa ce ai parasit scoala"<br>
+		   Numar de telefon: 0730630984
+		</p>
+		<p>Hobby-uri:
+		</p>
+		<ul>
+			<li>Desen</li>
+			<li>Animatie</li>
+			<li>Jocuri Video</li>
+		</ul>
+		
+		<h2>Disciplina de interes</h2>
+		<table>
+			<tr>
+				<th>Disciplina
+				</th>
+				<th>Anul de studiu
+				</th>
+				<th>Link</th>
+			</tr>
+			<tr>
+				<td>Componente și circuite electronice pasive
+				</td>
+				<td>Anul 1
+				</td>
+				<td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/05.pdf">FiseDisciplina</a>
+				</td>
+			</tr>
+			<tr>
+				<td> Programarea calculatoarelor
+				</td>
+				<td>Anul 1
+				</td>
+				<td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/04.pdf">FiseDisciplina</a>
+				</td>
+			</tr>
+			<tr>
+				<td> Dispozitive și circuite electronice
+				</td>
+				<td>Anul 1
+				</td>
+				<td><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/12.pdf">FiseDisciplina</a>
+				</td>
+			</tr>
+			<tr>_</tr>
+			</tbody>	
+		</table>
+		<br>
+		<a href="Agenda colegi.html"> Inapoi la Agenda colegi </a>
+	</body>
+</html>
